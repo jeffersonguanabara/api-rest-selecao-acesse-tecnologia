@@ -1,0 +1,15 @@
+br\com\testeacesse\api\web\repository\SolicitanteRepository.class
+br\com\testeacesse\api\web\repository\ProcessoRepository.class
+br\com\testeacesse\api\web\service\ProcessoService.class
+br\com\testeacesse\api\web\repository\filter\ProcessoFilter.class
+br\com\testeacesse\api\web\repository\processo\ProcessoRepositoryImp.class
+br\com\testeacesse\api\web\domain\Processo.class
+br\com\testeacesse\api\web\exceptions\ProcessoExceptionHandler.class
+br\com\testeacesse\api\web\events\ProcessoEvent.class
+br\com\testeacesse\api\web\repository\processo\ProcessoRepositoryQuery.class
+br\com\testeacesse\api\web\TesteAcesseApplication.class
+br\com\testeacesse\api\web\exceptions\ProcessoExceptionHandler$Erro.class
+br\com\testeacesse\api\web\domain\Solicitante.class
+br\com\testeacesse\api\web\restcontroller\ProcessoRestController.class
+br\com\testeacesse\api\web\utils\FuncoesUteis.class
+br\com\testeacesse\api\web\events\listener\ProcessoListener.class

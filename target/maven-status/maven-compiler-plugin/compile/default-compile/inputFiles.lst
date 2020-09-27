@@ -1,0 +1,14 @@
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\domain\Processo.java
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\restcontroller\ProcessoRestController.java
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\TesteAcesseApplication.java
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\service\ProcessoService.java
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\utils\FuncoesUteis.java
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\events\ProcessoEvent.java
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\repository\SolicitanteRepository.java
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\domain\Solicitante.java
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\events\listener\ProcessoListener.java
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\exceptions\ProcessoExceptionHandler.java
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\repository\processo\ProcessoRepositoryImp.java
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\repository\filter\ProcessoFilter.java
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\repository\ProcessoRepository.java
+C:\Users\Azevedo\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\teste-acesse\src\main\java\br\com\testeacesse\api\web\repository\processo\ProcessoRepositoryQuery.java
